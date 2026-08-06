@@ -1,0 +1,42 @@
+.header{
+    height: 500px;
+    background-color: blueviolet;
+
+    background-image:url('hi.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h3{
+    font-size:30px;
+    text-decoration: overline;
+}
+
+
+.second {
+    color: blue;
+    
+    visibility:hidden
+    /*
+    visibility:hidden*/
+}
+
+.seconds{
+    color: rgb(72, 194, 194);
+}
+.third{
+
+}
+.blog{
+
+box-shadow:10px 10px 10px ;
+font-family:'Courier New', Courier, monospace;
+
+}
+.aa{
+
+    border: 2px solid purple;
+    display:block
+
+}
